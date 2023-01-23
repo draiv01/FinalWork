@@ -9,6 +9,7 @@
 * >Нарисовать блок схему
 
 ![Блок схема](333.jpg)
+>[**ссылка на блок схему**](https://drive.google.com/file/d/1EddofI7KAwq_3ypXo05xcXlvrC_mON1V/view?usp=sharing)
 
 * >Снабдить репозиторий оформленным текстовым описание решения(файл README.md)
 
