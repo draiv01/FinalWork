@@ -1,0 +1,15 @@
+C:\Users\makar\Desktop\FinalWork\FinalWork\bin\Debug\net6.0\FinalWork.exe
+C:\Users\makar\Desktop\FinalWork\FinalWork\bin\Debug\net6.0\FinalWork.deps.json
+C:\Users\makar\Desktop\FinalWork\FinalWork\bin\Debug\net6.0\FinalWork.runtimeconfig.json
+C:\Users\makar\Desktop\FinalWork\FinalWork\bin\Debug\net6.0\FinalWork.dll
+C:\Users\makar\Desktop\FinalWork\FinalWork\bin\Debug\net6.0\FinalWork.pdb
+C:\Users\makar\Desktop\FinalWork\FinalWork\obj\Debug\net6.0\FinalWork.csproj.AssemblyReference.cache
+C:\Users\makar\Desktop\FinalWork\FinalWork\obj\Debug\net6.0\FinalWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makar\Desktop\FinalWork\FinalWork\obj\Debug\net6.0\FinalWork.AssemblyInfoInputs.cache
+C:\Users\makar\Desktop\FinalWork\FinalWork\obj\Debug\net6.0\FinalWork.AssemblyInfo.cs
+C:\Users\makar\Desktop\FinalWork\FinalWork\obj\Debug\net6.0\FinalWork.csproj.CoreCompileInputs.cache
+C:\Users\makar\Desktop\FinalWork\FinalWork\obj\Debug\net6.0\FinalWork.dll
+C:\Users\makar\Desktop\FinalWork\FinalWork\obj\Debug\net6.0\refint\FinalWork.dll
+C:\Users\makar\Desktop\FinalWork\FinalWork\obj\Debug\net6.0\FinalWork.pdb
+C:\Users\makar\Desktop\FinalWork\FinalWork\obj\Debug\net6.0\FinalWork.genruntimeconfig.cache
+C:\Users\makar\Desktop\FinalWork\FinalWork\obj\Debug\net6.0\ref\FinalWork.dll
